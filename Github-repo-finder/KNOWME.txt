@@ -1,0 +1,4 @@
+Github-repo-finder
+In this, you have to enter the username of a github account and then the names of all repositories he has created will be displayed.
+Just double click on "main.py" file.
+Requirements - python and modules(requests and bs4).
