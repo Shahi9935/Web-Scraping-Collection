@@ -1,0 +1,5 @@
+Imdb-get-poster
+In this, you have to enter the name of any movie or TV series and its poster from IMDB website will be downloaded and saved.
+Just double click on "main.py" file and enter the name.
+Image file of the poster will be named as "[movie/tv-series name]"
+Requirements - python and modules(requests and bs4) and active Internet Connection.
