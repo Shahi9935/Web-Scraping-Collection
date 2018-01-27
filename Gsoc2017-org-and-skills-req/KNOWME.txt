@@ -1,0 +1,5 @@
+Gsoc-2017-org-and-skills-req
+This script will create a text file containing the name and skills required by the organisations that were part of Gsoc2017.
+The process may take some time depenind on your internet connection.
+A text file named "GSOC2017.txt" will be created.
+Requirements - python and modules(requests and bs4) and active Internet Connection.
