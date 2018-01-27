@@ -3,3 +3,4 @@ In this, you have to enter the name of any movie or TV series and its poster fro
 Just double click on "main.py" file and enter the name.
 Image file of the poster will be named as "[movie/tv-series name]"
 Requirements - python and modules(requests and bs4) and active Internet Connection.
+If you are a college student and you use you college network, make sure IMDB is not blocked by your college department.
