@@ -1,0 +1,5 @@
+Local-Weather
+This will help you find the temperature, humidity, wind speed, forecast analysis etc for any location you type.
+It uses google maps api and darksky api for the data.
+Just double click on "main.py" file and enter the location.
+Requirements - python and modules(requests and bs4) and active Internet Connection.
