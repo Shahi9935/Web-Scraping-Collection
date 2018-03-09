@@ -1,0 +1,7 @@
+CyberRoam auto-login
+By running this script, your browser will open automatically on cyberRoam page and you will be logged in.
+Firstly edit the main.py by making following changes:
+1) Enter your username(Roll no.) in between quotes on line 14
+2) Enter your password in between quotes on line 15
+You are done!. Now double click on "main.py" file everytime you want to login.
+Requirements - python with selenium, gecko driver in path, firefox browser, LAN connection in BIT Mesra and a CyberRoam ID and password.
